@@ -1,4 +1,4 @@
 runtime_resource_overlay {
-    name: "FrameworksResOverlayLG8n",
+    name: "FrameworksResOverlayHyperreal",
     vendor: true
 }

@@ -4,6 +4,6 @@
 //
 
 runtime_resource_overlay {
-    name: "SettingsProviderOverlayLG8n",
+    name: "SettingsProviderOverlayHyperreal",
     vendor: true
 }
