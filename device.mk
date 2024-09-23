@@ -18,6 +18,7 @@ TARGET_SCREEN_WIDTH := 1080
 # Overlays
 PRODUCT_PACKAGES += \
 	FrameworksResOverlayHyperreal \
+    SettingsResOverlayDerpHyperreal \
     SettingsProviderOverlayHyperreal \
     SystemUIOverlayHyperreal
 

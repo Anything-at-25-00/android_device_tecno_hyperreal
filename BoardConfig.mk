@@ -42,7 +42,7 @@ BOARD_VENDOR_KERNEL_MODULES_LOAD := $(strip $(shell cat $(KERNEL_PATH)/vendor_dl
 BOARD_VENDOR_KERNEL_MODULES := $(wildcard $(KERNEL_PATH)/vendor_dlkm/*.ko)
 
 # OTA assert
-TARGET_OTA_ASSERT_DEVICE := hyperreal,TECNO-hyperreal,lg8n
+TARGET_OTA_ASSERT_DEVICE := LG8n,TECNO-LG8n,lg8n,hyperreal
 
 # Properties
 TARGET_PRODUCT_PROP += $(DEVICE_PATH)/configs/properties/product.prop
