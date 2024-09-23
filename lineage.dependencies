@@ -1,9 +1,9 @@
 [
   {
     "remote"      : "github",
-    "repository"  : "Anything-at-25-00/android_vendor_tecno_LG8n",
+    "repository"  : "Anything-at-25-00/android_vendor_tecno_hyperreal",
     "branch"      : "fourteen",
-    "target_path" : "vendor/tecno/LG8n"
+    "target_path" : "vendor/tecno/hyperreal"
   },
   {
     "remote"      : "github",
@@ -27,7 +27,7 @@
     "remote"      : "github",
     "repository"  : "Anything-at-25-00/device_tecno_lg8n_kernel",
     "branch"      : "lineage-21",
-    "target_path" : "device/tecno/LG8n-kernel"
+    "target_path" : "device/tecno/hyperreal-kernel"
   },
   {
     "remote"      : "github",

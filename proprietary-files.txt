@@ -1,4 +1,4 @@
-## lg8n package version: LG8n-H891OPAeAf-S-GL-240531V2678, unless stated otherwise
+## lg8n package version: hyperreal-H891OPAeAf-S-GL-240531V2678, unless stated otherwise
 
 # Audio
 vendor/bin/audiocmdservice_atci
