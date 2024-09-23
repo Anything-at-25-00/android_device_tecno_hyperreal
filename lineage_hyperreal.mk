@@ -15,8 +15,8 @@ $(call inherit-product, device/tecno/LG8n/device.mk)
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 BOARD_VENDOR := TECNO
-PRODUCT_NAME := lineage_LG8n
-PRODUCT_DEVICE := LG8n
+PRODUCT_NAME := lineage_hyperreal
+PRODUCT_DEVICE := hyperreal
 PRODUCT_MANUFACTURER := TECNO
 PRODUCT_BRAND := TECNO
 PRODUCT_MODEL := TECNO LG8n
