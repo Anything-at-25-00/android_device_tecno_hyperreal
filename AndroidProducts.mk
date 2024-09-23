@@ -5,5 +5,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_hyperreal.mk
+    $(LOCAL_DIR)/derp_hyperreal.mk
 
