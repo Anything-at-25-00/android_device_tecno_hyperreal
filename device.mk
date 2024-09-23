@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/tecno/LG8n
+DEVICE_PATH := device/tecno/hyperreal
 KERNEL_PATH := $(DEVICE_PATH)-kernel
 
 # AAPT
@@ -36,4 +36,4 @@ PRODUCT_PACKAGES += \
 $(call inherit-product, device/tecno/mt6789-common/common.mk)
 
 # Inherit the proprietary files
-$(call inherit-product, vendor/tecno/LG8n/LG8n-vendor.mk)
+$(call inherit-product, vendor/tecno/hyperreal/hyperreal-vendor.mk)

@@ -14,7 +14,7 @@ fi
 
 set -e
 
-export DEVICE=LG8n
+export DEVICE=hyperreal
 export DEVICE_COMMON=mt6789-common
 export VENDOR=tecno
 export VENDOR_COMMON=tecno
